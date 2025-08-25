@@ -74,5 +74,6 @@ AUREA $PHI no es una promesa futura:
 
 - Creador: [Francisco José Izquierdo San Miguel](https://github.com/frankzyul)  
 - Proyecto: `aurea-phi`  
-- Documento fundador: [Libro Áureo Público](whitepaper/LIBRO_AUREO_PUBLICO.pdf)  
+- Documento fundador: [Libro Áureo Público (PDF)](https://github.com/frankzyul/Aurea-Phi/raw/main/LIBRO%20%C3%81UREO%20DE%20AUREA%20%24PHI%20-%20P%C3%BAblico.pdf)
+  
 
