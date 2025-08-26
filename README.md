@@ -1,13 +1,13 @@
 # Aurea-Phi
-AUREA $PHI - Proof Of Life protocol. Cada acto de vida genera valor digital en beneficio del pueblo.
+AUREA PHI - Proof Of Life protocol. Cada acto de vida genera valor digital en beneficio del pueblo.
 
 Yo, Francisco José Izquierdo San Miguel, alias LegeNN, alias Frank Zyul, creador de
 AUREA $PHI y del sistema Proof Of Life declaro y decreto que cualquier intento de copia,
-plagio o clon del sistema Proof Of Life y $PHI queda terminantemente PROHIBIDO y será
+plagio o clon del sistema Proof Of Life y PHI queda terminantemente PROHIBIDO y será
 enfrentado con todas las medidas legales. Me reservo en mi SER la Semilla que hace
 posible que este sistema funcione.
 
-# AUREA $PHI — Proof of Life Protocol
+# AUREA PHI — Proof of Life Protocol
 
 > “Cada documento válido de la vida genera valor.  
 > Ese valor se purifica, se comparte y se protege.  
@@ -17,7 +17,7 @@ posible que este sistema funcione.
 
 ## Introducción
 
-AUREA $PHI es el primer sistema económico basado en **Proof of Life (PoL)**.  
+AUREA PHI es el primer sistema económico basado en **Proof of Life (PoL)**.  
 Cada documento real —factura, contrato, ticket, lote agrícola, nómina— genera emisión de PHI.  
 
 Una parte de esa emisión vuelve al humano en forma de PHI, libremente utilizable e intercambiable.  
@@ -67,7 +67,7 @@ Cualquier intento de token paralelo bajo el nombre PHI será considerado ilegít
 
 ## Conclusión
 
-AUREA $PHI no es una promesa futura:  
+AUREA PHI no es una promesa futura:  
 - Ya respira con Proof of Life.  
 - Ya distribuye valor con justicia.  
 - Ya se protege con Tesoro incorruptible.  
